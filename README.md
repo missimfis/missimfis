@@ -1,5 +1,3 @@
-# 👋 Hey there!
-
 Full‑Stack Developer • Linux Enthusiast • Privacy & Security Advocate
 
 I build clean, performant applications that stay lightweight and secure.
